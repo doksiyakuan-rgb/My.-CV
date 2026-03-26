@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>CV Dok Siya-Kuan Balard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <!-- Colonne gauche (Photo, Adresse, Langues, Loisirs) -->
+    <div class="left">
+        <div class="section photo-section">
+            <img src="FB_IMG_17728046060045070.jpg" alt="Photo Dok Siya-Kuan Balard" class="photo">
+        </div>
+
+        <div class="section">
+          <h2>Contact</h2>
+          <p>00237690448192</p>
+          <p>doksiyakuan@gmail.com</p>
+          <p> https://www.linkedin.com/in/balard-dok-siya-kuan-8baaa4279?trk</p>
+            <h2>Adresse</h2>
+            <p>Douala, Cameroun</p>
+        </div>
+
+        <div class="section">
+            <h2>Langues</h2>
+            <ul>
+                <li>Français – Courant</li>
+                <li>Anglais – Intermédiaire</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Loisirs</h2>
+            <ul>
+                <li>Lecture</li>
+                <li>Football</li>
+                <li>Technologies</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Colonne droite (Nom, Expérience, Compétences, Formation) -->
+    <div class="right">
+        <div class="section">
+            <h1>Dok Siya-Kuan Balard</h1>
+            <p><strong>Informaticien passionné par le devellopement et la securité réseau</strong></p>
+        </div>
+
+        <div class="section">
+            <h2>Expérience</h2>
+            <ul>
+              <li>Empire Kim - chargé des affaires et educatifs</li>
+                <li>Devellopement d'un site Web  </li>
+                <li>Simulation d'un réseau avec Packet Tracer</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Compétences</h2>
+            <ul>
+                <li>HTML, CSS, JavaScript</li>
+                <li>Node.js</li>
+                <li>Java,C</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Formation</h2>
+            <ul>
+              <li>Entreprenariat - Education Financière</li>
+                <li>Licence Informatique – Université de Douala
+                </li>
+                <li>Baccalauréat  – Lycée Moderne de Bongor</li>
+            </ul>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>
